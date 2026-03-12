@@ -4,7 +4,7 @@ main:
     conference_short: Nature Methods
     conference: <em>Nature Methods</em> volume 22, pages 520–529 (2025).
     pdf: https://www.nature.com/articles/s41592-024-02576-0
-    notes: 
+    notes:
     image: ./assets/img/paper1_2025NM.webp
 
   - title: "Spatial profiling of chromatin accessibility in formalin-fixed paraffin-embedded tissues"
@@ -12,5 +12,21 @@ main:
     conference_short: Nature Communications
     conference: <em>Nature Communications</em> volume 16, Article number 5945 (2025).
     pdf: https://www.nature.com/articles/s41467-025-60882-3
-    notes: 
+    notes:
     image: ./assets/img/paper2_2025NC.webp
+
+  - title: "Toward Computationally Complete Spatial Omics"
+    authors: Wei Li, <strong>Liran Mao</strong>, Yunhe Liu, Fuduan Peng, Nadja Sachs, Wenrui Wu, Stephanie Pei Tung Yiu, Hanying Yan, Amelia Schroeder, Xiaokang Yu, Kaitian Jin, Shunzhou Jiang, Zihao Chen, Melanie L. Loth, Lorena Gomez, Idania Lubo, Niklas Blank, Laith Z. Samarah, Ankit Basak, Ye Won Cho, Chia-Yu Chen, David M. Kim, Alex K. Shalek, Luisa Maren Solis Soto, Joshua D. Rabinowitz, Muredach P. Reilly, Xuyu Qian, Christoph A. Thaiss, Lars Maegdefessel, Linghua Wang, Humam Kadara, Sizun Jiang, Yanxiang Deng, Mingyao Li
+    conference_short: bioRxiv
+    conference: <em>bioRxiv</em>, 2026.
+    pdf: https://doi.org/10.64898/2026.03.03.709303
+    notes:
+    image: ./assets/img/paper3_2026bioRxiv_spatial.jpg
+
+  - title: "HistoSweep enables cellular-resolution tissue quality control for gigapixel images in digital pathology and spatial omics"
+    authors: Amelia Schroeder, Xiaokang Yu, Wei Li, Musu Yuan, <strong>Liran Mao</strong>, Jiyuan Yang, Nadja Sachs, Bernhard Dumoulin, George X. Xu, Xunda Luo, Alexander Huang, Katalin Susztak, Tae Hyun Hwang, Humam Kadara, Lars Maegdefessel, Jiyang Yu, Mingyao Li
+    conference_short: bioRxiv
+    conference: <em>bioRxiv</em>, 2026.
+    pdf: https://doi.org/10.64898/2026.01.30.702675
+    notes:
+    image: ./assets/img/paper4_2026bioRxiv_histosweep.webp

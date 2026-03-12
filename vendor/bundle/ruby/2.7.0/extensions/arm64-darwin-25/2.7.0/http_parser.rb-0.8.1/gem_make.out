@@ -1,0 +1,18 @@
+current directory: /Users/liranmao/Documents/4_personal_web/liranmao.github.io/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.8.1/ext/ruby_http_parser
+/Users/liranmao/.rbenv/versions/2.7.8/bin/ruby -I /Users/liranmao/.rbenv/versions/2.7.8/lib/ruby/2.7.0 -r ./siteconf20260311-10020-fv5gc1.rb extconf.rb
+creating Makefile
+
+current directory: /Users/liranmao/Documents/4_personal_web/liranmao.github.io/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.8.1/ext/ruby_http_parser
+make "DESTDIR=" clean
+
+current directory: /Users/liranmao/Documents/4_personal_web/liranmao.github.io/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.8.1/ext/ruby_http_parser
+make "DESTDIR="
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.bundle
+ld: warning: -multiply_defined is obsolete
+ld: warning: ignoring duplicate libraries: '-lruby.2.7'
+
+current directory: /Users/liranmao/Documents/4_personal_web/liranmao.github.io/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.8.1/ext/ruby_http_parser
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 ruby_http_parser.bundle ./.gem.20260311-10020-8h631z
