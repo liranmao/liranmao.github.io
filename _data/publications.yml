@@ -15,6 +15,14 @@ main:
     notes:
     image: ./assets/img/paper2_2025NC.webp
 
+  - title: "Spatial atlas of diabetic kidney disease reveals a B cell-rich subgroup"
+    authors: Bernhard Dumoulin, Jonathan Levinsohn, Konstantin A. Klötzer, Chenyu Li, <strong>Liran Mao</strong>, Eunji Ha, Samer Mohandes, Thao Nguyen, Luca Paruzzo, Daigoro Hirohama, Victoria Fang, Vijay G. Bhoj, Hamideh Parhiz, Magaiver Andrade-Silva, Amin Abedini, Andi Bergeson, Daniel Traum, Michael J. May, Klaus H. Kaestner, Marco Ruella, Fiona Elizabeth McAllister, A. Ari Hakimi, Mingyao Li, Matthew Palmer, E. John Wherry, Christopher A. Hunter, Michael Paul Cancro, TRIDENT consortium, and Katalin Susztak
+    conference_short: Nature
+    conference: <em>Nature</em> volume 653, pages 1158–1169 (2026).
+    pdf: https://www.nature.com/articles/s41586-026-10363-4
+    notes:
+    image: ./assets/img/paper_2026Nature_DKD.png
+
   - title: "Toward Computationally Complete Spatial Omics"
     authors: Wei Li, <strong>Liran Mao</strong>, Yunhe Liu, Fuduan Peng, Nadja Sachs, Wenrui Wu, Stephanie Pei Tung Yiu, Hanying Yan, Amelia Schroeder, Xiaokang Yu, Kaitian Jin, Shunzhou Jiang, Zihao Chen, Melanie L. Loth, Lorena Gomez, Idania Lubo, Niklas Blank, Laith Z. Samarah, Ankit Basak, Ye Won Cho, Chia-Yu Chen, David M. Kim, Alex K. Shalek, Luisa Maren Solis Soto, Joshua D. Rabinowitz, Muredach P. Reilly, Xuyu Qian, Christoph A. Thaiss, Lars Maegdefessel, Linghua Wang, Humam Kadara, Sizun Jiang, Yanxiang Deng, Mingyao Li
     conference_short: bioRxiv
