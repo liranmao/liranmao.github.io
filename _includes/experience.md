@@ -17,5 +17,6 @@
 <h2 id="education">Education</h2>
 
 - **Ph.D. in Genomics and Computational Biology** <br> *University of Pennsylvania* (09/2023 - Present)
+- **M.A. in Statistics and Data Science** <br> *The Wharton School of the University of Pennsylvania* (09/2023 - 06/2026)
 - **Visiting Undergraduate Students Program** <br> *Harvard University* (01/2022 - 07/2022)
 - **B.A. in Biology Science** <br> *Wuhan University* (09/2019 - 06/2023)
