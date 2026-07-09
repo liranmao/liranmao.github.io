@@ -7,6 +7,7 @@
 - **Research Assistant** <br> *Peking University* (07/2021 - 10/2022) <br> Advisor: Jingdong Han
 
 ### Teaching Experience
+- **Everything AI for Research Workshop** (Spring 2026) <br> Gave lectures, led office hours, and hosted in-person Q&A sessions
 - **Teaching Assistant, Microbiology** (Fall 2020)
 - **Student Class Teacher** <br> Admitted class of 2021 majoring in biology (2021 - 2022)
 - **Lecturer in Science Popularization** (08/2021 - 09/2021)
