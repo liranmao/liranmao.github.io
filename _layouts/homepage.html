@@ -89,13 +89,11 @@
       <h1>{{ site.title }}</h1>
 
       {% if site.position %}
-      <position style="font-size:1.10rem;">{{ site.position }}</position>
+      <position style="font-size:1.10rem;">{{ site.position }}{% if site.affiliation %}, {{ site.affiliation }}{% endif %}</position>
       <br>
       {% endif %}
-      {% if site.affiliation %}
-      <a href="{{ site.affiliation_link }}" rel="noopener">
-        <autocolor>{{ site.affiliation }}</autocolor>
-      </a>
+      {% if site.degree %}
+      <degree>{{ site.degree }}</degree>
       <br>
       {% endif %}
       {% if site.email %}

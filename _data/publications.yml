@@ -1,6 +1,22 @@
 main:
+  - title: "Spatial cell typing from routine histology at population scale"
+    authors: <strong><u>Liran Mao</u></strong>#, Wei Li, Xiaokang Yu, Shunzhou Jiang, … , Lars Maegdefessel, MacLean P. Nasrallah, Yanxiang Deng, Katalin Susztak, Humam Kadara, Linghua Wang#, Mingyao Li#
+    conference_short: Under review
+    conference: Under review at <em>Cancer Discovery</em>.
+    pdf:
+    notes:
+    image: ./assets/img/paper5_meowcat.jpg
+
+  - title: "Computational Landscape and Emerging Frontiers in Spatial Omics"
+    authors: <strong><u>Liran Mao</u></strong>*, Chuxuan Li*, Shunzhou Jiang, Wei Li, Kaitian Jin, Nancy R. Zhang, Mingyao Li#
+    conference_short: Under review
+    conference: Under review at <em>The Annals of Applied Statistics</em>.
+    pdf:
+    notes:
+    image: ./assets/img/paper6_spatialomics.png
+
   - title: "Multiplexed spatial mapping of chromatin features, transcriptome and proteins in tissues"
-    authors: Pengfei Guo*#, <strong>Liran Mao*</strong>, Yufan Chen, Chin Nien Lee, Angelysia Cardilla, Mingyao Li, Marek Bartosovic# & Yanxiang Deng#
+    authors: Pengfei Guo*#, <strong><u>Liran Mao</u></strong>*, Yufan Chen, Chin Nien Lee, Angelysia Cardilla, Mingyao Li, Marek Bartosovic# & Yanxiang Deng#
     conference_short: Nature Methods
     conference: <em>Nature Methods</em> volume 22, pages 520–529 (2025).
     pdf: https://www.nature.com/articles/s41592-024-02576-0
@@ -8,7 +24,7 @@ main:
     image: ./assets/img/paper1_2025NM.webp
 
   - title: "Spatial profiling of chromatin accessibility in formalin-fixed paraffin-embedded tissues"
-    authors: Pengfei Guo*#, Yufan Chen*, <strong>Liran Mao</strong>, Angelysia Cardilla, Chin Nien Lee, Yan Cui, Dengge Jin, Yucong Hua, Xiaowei Xu & Yanxiang Deng#
+    authors: Pengfei Guo*#, Yufan Chen*, <strong><u>Liran Mao</u></strong>, Angelysia Cardilla, Chin Nien Lee, Yan Cui, Dengge Jin, Yucong Hua, Xiaowei Xu & Yanxiang Deng#
     conference_short: Nature Communications
     conference: <em>Nature Communications</em> volume 16, Article number 5945 (2025).
     pdf: https://www.nature.com/articles/s41467-025-60882-3
@@ -16,7 +32,7 @@ main:
     image: ./assets/img/paper2_2025NC.webp
 
   - title: "Spatial atlas of diabetic kidney disease reveals a B cell-rich subgroup"
-    authors: Bernhard Dumoulin, Jonathan Levinsohn, Konstantin A. Klötzer, Chenyu Li, <strong>Liran Mao</strong>, Eunji Ha, Samer Mohandes, Thao Nguyen, Luca Paruzzo, Daigoro Hirohama, Victoria Fang, Vijay G. Bhoj, Hamideh Parhiz, Magaiver Andrade-Silva, Amin Abedini, Andi Bergeson, Daniel Traum, Michael J. May, Klaus H. Kaestner, Marco Ruella, Fiona Elizabeth McAllister, A. Ari Hakimi, Mingyao Li, Matthew Palmer, E. John Wherry, Christopher A. Hunter, Michael Paul Cancro, TRIDENT consortium, and Katalin Susztak
+    authors: Bernhard Dumoulin, Jonathan Levinsohn, Konstantin A. Klötzer, Chenyu Li, <strong><u>Liran Mao</u></strong>, Eunji Ha, Samer Mohandes, Thao Nguyen, Luca Paruzzo, Daigoro Hirohama, Victoria Fang, Vijay G. Bhoj, Hamideh Parhiz, Magaiver Andrade-Silva, Amin Abedini, Andi Bergeson, Daniel Traum, Michael J. May, Klaus H. Kaestner, Marco Ruella, Fiona Elizabeth McAllister, A. Ari Hakimi, Mingyao Li, Matthew Palmer, E. John Wherry, Christopher A. Hunter, Michael Paul Cancro, TRIDENT consortium, and Katalin Susztak
     conference_short: Nature
     conference: <em>Nature</em> volume 653, pages 1158–1169 (2026).
     pdf: https://www.nature.com/articles/s41586-026-10363-4
@@ -24,17 +40,17 @@ main:
     image: ./assets/img/paper_2026Nature_DKD.png
 
   - title: "Toward Computationally Complete Spatial Omics"
-    authors: Wei Li, <strong>Liran Mao</strong>, Yunhe Liu, Fuduan Peng, Nadja Sachs, Wenrui Wu, Stephanie Pei Tung Yiu, Hanying Yan, Amelia Schroeder, Xiaokang Yu, Kaitian Jin, Shunzhou Jiang, Zihao Chen, Melanie L. Loth, Lorena Gomez, Idania Lubo, Niklas Blank, Laith Z. Samarah, Ankit Basak, Ye Won Cho, Chia-Yu Chen, David M. Kim, Alex K. Shalek, Luisa Maren Solis Soto, Joshua D. Rabinowitz, Muredach P. Reilly, Xuyu Qian, Christoph A. Thaiss, Lars Maegdefessel, Linghua Wang, Humam Kadara, Sizun Jiang, Yanxiang Deng, Mingyao Li
-    conference_short: bioRxiv
-    conference: <em>bioRxiv</em>, 2026.
+    authors: Wei Li, <strong><u>Liran Mao</u></strong>, Yunhe Liu, Fuduan Peng, Nadja Sachs, Wenrui Wu, Stephanie Pei Tung Yiu, Hanying Yan, Amelia Schroeder, Xiaokang Yu, Kaitian Jin, Shunzhou Jiang, Zihao Chen, Melanie L. Loth, Lorena Gomez, Idania Lubo, Niklas Blank, Laith Z. Samarah, Ankit Basak, Ye Won Cho, Chia-Yu Chen, David M. Kim, Alex K. Shalek, Luisa Maren Solis Soto, Joshua D. Rabinowitz, Muredach P. Reilly, Xuyu Qian, Christoph A. Thaiss, Lars Maegdefessel, Linghua Wang, Humam Kadara, Sizun Jiang, Yanxiang Deng, Mingyao Li
+    conference_short: Under review
+    conference: Under review at <em>Cell</em>.
     pdf: https://doi.org/10.64898/2026.03.03.709303
     notes:
     image: ./assets/img/paper3_2026bioRxiv_spatial.jpg
 
   - title: "HistoSweep enables cellular-resolution tissue quality control for gigapixel images in digital pathology and spatial omics"
-    authors: Amelia Schroeder, Xiaokang Yu, Wei Li, Musu Yuan, <strong>Liran Mao</strong>, Jiyuan Yang, Nadja Sachs, Bernhard Dumoulin, George X. Xu, Xunda Luo, Alexander Huang, Katalin Susztak, Tae Hyun Hwang, Humam Kadara, Lars Maegdefessel, Jiyang Yu, Mingyao Li
-    conference_short: bioRxiv
-    conference: <em>bioRxiv</em>, 2026.
+    authors: Amelia Schroeder, Xiaokang Yu, Wei Li, Musu Yuan, <strong><u>Liran Mao</u></strong>, Jiyuan Yang, Nadja Sachs, Bernhard Dumoulin, George X. Xu, Xunda Luo, Alexander Huang, Katalin Susztak, Tae Hyun Hwang, Humam Kadara, Lars Maegdefessel, Jiyang Yu, Mingyao Li
+    conference_short: Under review
+    conference: Under review at <em>Nature Methods</em>.
     pdf: https://doi.org/10.64898/2026.01.30.702675
     notes:
     image: ./assets/img/paper4_2026bioRxiv_histosweep.webp

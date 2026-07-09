@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 <h2 id="about-me">About Me</h2>
-I am a Ph.D. Candidate in Genomics and Computational Biology at the University of Pennsylvania. My research focuses on digital pathology and spatial multi-omics. Previously, I was a Research Assistant at UT Southwestern Medical Center, Harvard University (Broad Institute), and Peking University. I am actively seeking a summer 2027 internship.
+I am a Ph.D. Candidate in Genomics and Computational Biology at the University of Pennsylvania, where I also earned an M.A. in Statistics and Data Science from the Wharton School. My research focuses on digital pathology and spatial multi-omics. Previously, I was a Research Assistant at UT Southwestern Medical Center, Harvard University (Broad Institute), and Peking University. I am actively seeking a summer 2027 internship.
 
 
 {% include_relative _includes/publications.md %}
