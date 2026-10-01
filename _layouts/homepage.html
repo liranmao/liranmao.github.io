@@ -128,8 +128,14 @@
         {% endif %}
 
         {% if site.twitter %}
-        <a style="margin: 0 0 0 0" href="{{ site.twitter }}">
+        <a style="margin: 0 5px 0 0" href="{{ site.twitter }}">
           <i class="fab fa-x-twitter"></i>
+        </a>
+        {% endif %}
+
+        {% if site.personal_email %}
+        <a style="margin: 0" href="mailto:{{ site.personal_email }}" aria-label="Personal email" title="{{ site.personal_email }}">
+          <i class="fas fa-envelope" aria-hidden="true"></i>
         </a>
         {% endif %}
       </div>
