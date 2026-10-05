@@ -9,3 +9,5 @@ I am a Ph.D. Candidate in Genomics and Computational Biology at the University o
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/experience.md %}
+
+{% include_relative _includes/skills.md %}
